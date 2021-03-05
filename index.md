@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="es">
 
-You can use the [editor on GitHub](https://github.com/pichucho013/Rafael_Pukall_curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rafael Pukall</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div class="cabezera">
+        <img class="foto"  align = "center" src="https://media-exp1.licdn.com/dms/image/C5603AQGHaKKoqNSMyg/profile-displayphoto-shrink_200_200/0/1552948551029?e=1619049600&v=beta&t=7Co53EVe1BUseze9ul8-HvFE8iRPLMEpJfR4Aaxy2eg"
+        >
+        <br>
+        <h2>Rafael David Pukall Gallardo</h2>
+        <p>pukallrafaelgmail.com</p> <br>
+    </div>
 
-### Markdown
+    <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div class="cuadros">
+        <h4>DATOS PERSONALES</h4>
+        <ul>
+            <li>FECHA DE NACIMIENTO | : 24 de Enero de 1996</li>
+            <li>LUGAR DE NACIMIENTO : Asunción</li>
+            <li>EDAD : 24 años</li>
+            <li>ESTADO CIVIL : Soltero</li>
+            <li>CEDULA DE IDENTIDAD : 4.045.651</li>
+            <li>NACIONALIDAD : Paraguayo</li>
+            <li>DOMICILIO : Calle San Roque G., Capiatá km 16/2 ruta 2</li>
+            <li>PROFESION : Estudiante</li>
+            <li>CELULAR : (0982) 374722</li>
 
-```markdown
-Syntax highlighted code block
+        </ul>
+    </div>
+    
+    <br>
+    
+    <div class="cuadros">
+        
+        <h4>ESTUDIOS CURSADOS. NIVEL ESCOLAR BASICA:</h4>
+        <ul>
+            <li>Colegio Parroquial Privado Subvencionado Virgen de la Candelaria (2008-2010).
+            <li></li>
+            <li>Bachillerato Científico con énfasis en Ciencias Sociales – Colegio Parroquial Privado Subvencionado
+                Virgen de la Candelaria (2011-2013).
+            
+        </ul>
 
-# Header 1
-## Header 2
-### Header 3
+        
+    </div>
 
-- Bulleted
-- List
+    <br>
 
-1. Numbered
-2. List
+    <div class="cuadros">
+        <h4>Experiencias laborales:</h4>
+        <ul>
+            <li>Softwate Natura- 6 meses - Developer JR - Trabajo en unos proyectos de la empresa.</li>
+            <li>Trabaje de manera independiente para diseñar una pagina web estatica a un partido politico(PDC-PY).</li>
+        </ul>
+    </div>
+    
+    <br>
 
-**Bold** and _Italic_ and `Code` text
+    <div class="cuadros">
+        <h4>Hobbies/Pasatiempos:</h4>
+        <ul>
+            <li>Me gusta futbol. Hacer ejercios en general.</li>
+            <li>Me guata la programación.</li>
+            <li>Juegos de computadoras.</li>
+            <li>Me jusga el ajedrez.</li>
+        </ul>
+    </div>
+    
+    <br>
+    
+    <div class="cuadros">
+        <h4>Referencias Laborales:</h4>
+        <ul>
+            <a href="http://www.pdc.org.py/">
+                <li >PDC-PARAGUAY</li>
+            </a>
+            
+        </ul>
+    </div>
+    
+    
+    
+    
 
-[Link](url) and ![Image](src)
-```
+</body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pichucho013/Rafael_Pukall_curriculum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
